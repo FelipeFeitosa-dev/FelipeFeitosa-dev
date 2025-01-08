@@ -4,7 +4,7 @@
      <ul>
        <li>👋 Me chamo Felipe Feitosa da Silva, tenho 27 anos.</li>
        <li>📌 São Paulo, Brasil.</li>
-       <li>👨‍💻 Sou um desenvolvedor com mais de 11 anos de experiência.</li>
+       <li>👨‍💻 Sou um desenvolvedor com mais de 12 anos de experiência.</li>
        <li>💬 Pergunte-me sobre Python / PHP / React / Flutter / AWS posso te ajudar!.</li>
      </ul>
    </div>
